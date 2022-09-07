@@ -53,6 +53,8 @@ Sep 2019 - Jul 2022
 * **Astana IT University** <br> 
 Master's degree, Computer scinse <br>
 Sep 2022
+
+
 ---
 ### Languages
 * English B2
