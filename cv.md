@@ -1,4 +1,4 @@
-## Amirseitov Almat
+# Amirseitov Almat
 ---
 ### Contacts
 * phone: +7 708 653 48 86
